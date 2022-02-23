@@ -12,7 +12,7 @@ public class Client {
 		e.setEname("Ravi");
 		e.setEsalary(30000);
 		System.out.println(e);
-		// Inversion o Control(IOC)
+		//Inversion o Control(IOC)
 		//1.Add jar files
 		//2.Configure objects of a java into XML file
 		//3.Use IOC container : BeanFactory or ApplicationContext to get objects constructed of them
